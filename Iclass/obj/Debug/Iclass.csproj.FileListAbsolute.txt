@@ -1,0 +1,16 @@
+D:\project\Iclass\Iclass\bin\Debug\Iclass.exe.config
+D:\project\Iclass\Iclass\bin\Debug\Iclass.exe
+D:\project\Iclass\Iclass\bin\Debug\Iclass.pdb
+D:\project\Iclass\Iclass\obj\Debug\Iclass.csprojResolveAssemblyReference.cache
+D:\project\Iclass\Iclass\obj\Debug\Iclass.Form1.resources
+D:\project\Iclass\Iclass\obj\Debug\Iclass.Properties.Resources.resources
+D:\project\Iclass\Iclass\obj\Debug\Iclass.csproj.GenerateResource.Cache
+D:\project\Iclass\Iclass\obj\Debug\Iclass.exe
+D:\project\Iclass\Iclass\obj\Debug\Iclass.pdb
+D:\project\Iclass\Iclass\obj\Debug\Iclass.Form2.resources
+D:\project\Iclass\Iclass\obj\Debug\Interop.Beta_COM.dll
+D:\project\Iclass\Iclass\obj\Debug\Iclass.csproj.ResolveComReference.cache
+D:\project\Iclass\Iclass\bin\Debug\DSCoreWrapper.dll
+D:\project\Iclass\Iclass\bin\Debug\DSCoreWrapper.pdb
+D:\project\Iclass\Iclass\obj\Debug\Iclass.Form3.resources
+D:\project\Iclass\Iclass\obj\Debug\Iclass.Table.resources
