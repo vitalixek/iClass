@@ -55,6 +55,7 @@ namespace Iclass
             table = new Table(com, dataGridView1,tabControl1);
             tabControl1.TabPages.Remove(tabControl1.TabPages["tabPage1"]);
 
+            button1.Enabled = true;
             table.ReadAttributeTable(dtAtrributes);
             dtClasses = table.ReadClassTable();
             ReadClassifierTable();

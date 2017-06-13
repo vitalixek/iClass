@@ -33,8 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DSCoreWrapper">
-      <HintPath>..\DSCoreWrapper\Debug\DSCoreWrapper.dll</HintPath>
+    <Reference Include="DSCoreWrapper, Version=1.0.6357.30850, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Виталий\Desktop\demods-master0\DSCoreWrapper\Debug\DSCoreWrapper.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
